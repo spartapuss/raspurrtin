@@ -2,6 +2,8 @@
 
 Tutorials from Github are pretty handy, so I'm going to link all of the work I submit below. A good reference point to keep up on development over a set amount of time **[1st Dec 2020]**
 
+**UPDATE**
+Rejected from the census manager role. Sticking to coding. Using this page to monitor entries on github - I guess this is my new strava! With more calories...
 
 You can use the [editor on GitHub](https://github.com/spartapuss/raspurrtin/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
