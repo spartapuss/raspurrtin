@@ -1,5 +1,8 @@
 ## This is Raspurrtin
 
+Tutorials from Github are pretty handy, so I'm going to link all of the work I submit below. A good reference point to keep up on development over a set amount of time [1st Dec 2020]
+
+
 You can use the [editor on GitHub](https://github.com/spartapuss/raspurrtin/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
